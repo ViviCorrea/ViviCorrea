@@ -9,10 +9,10 @@
 <h1 align="center"> Olá, sou Vivian Corrêa </h1>
 <h4 align="center"> Graduanda em Sistemas da Computação na UFF </h4>
 
-<p align="center"> 🎯Objetivo: </p>
-<p align="center"> Trabalhar na área de Cibersegurança (blue team). <br>
+<h4 align="center"> 🎯Objetivo: </h4>
+<h4 align="center"> Trabalhar na área de Cibersegurança (blue team).  <br> 
 Meu foco é estudar as ferramentas que me habilitem a trabalhar nessa área como: <br>
-Python, Linux, redes, infraestrutura etc... </p>
+Python, Linux, redes, infraestrutura etc... </p> </h4>
 
 
 📋 Linguagens: <br>
