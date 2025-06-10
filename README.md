@@ -1,8 +1,18 @@
-## Olá, sou Vivian Corrêa 
-Graduanda em Sistemas da Computação na UFF
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+ 
+ <body>
+<h1 align="center"> Olá, sou Vivian Corrêa </h1>
+<h4 align="center"> Graduanda em Sistemas da Computação na UFF </h4>
 
-Objetivo:
-Trabalhar na área de Cibersegurança (blue team). Meu foco é estudar ferramentas que me habilitem a trabalhar nessa área como Python, Linux, redes, infraestrutura etc...
+<p align="center"> 🎯Objetivo: </p>
+<p align="center"> Trabalhar na área de Cibersegurança (blue team). <br>
+Meu foco é estudar as ferramentas que me habilitem a trabalhar nessa área como: <br>
+Python, Linux, redes, infraestrutura etc... </p>
 
 
 📋 Linguagens: <br>
@@ -19,6 +29,8 @@ Trabalhar na área de Cibersegurança (blue team). Meu foco é estudar ferrament
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 💬 Contato: <br>
+<br>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</body>
 
